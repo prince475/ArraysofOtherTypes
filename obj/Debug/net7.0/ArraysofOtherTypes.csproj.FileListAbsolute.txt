@@ -1,0 +1,15 @@
+/home/prince/Development/CsharpProjects/ArraysofOtherTypes/bin/Debug/net7.0/ArraysofOtherTypes
+/home/prince/Development/CsharpProjects/ArraysofOtherTypes/bin/Debug/net7.0/ArraysofOtherTypes.deps.json
+/home/prince/Development/CsharpProjects/ArraysofOtherTypes/bin/Debug/net7.0/ArraysofOtherTypes.runtimeconfig.json
+/home/prince/Development/CsharpProjects/ArraysofOtherTypes/bin/Debug/net7.0/ArraysofOtherTypes.dll
+/home/prince/Development/CsharpProjects/ArraysofOtherTypes/bin/Debug/net7.0/ArraysofOtherTypes.pdb
+/home/prince/Development/CsharpProjects/ArraysofOtherTypes/obj/Debug/net7.0/ArraysofOtherTypes.csproj.AssemblyReference.cache
+/home/prince/Development/CsharpProjects/ArraysofOtherTypes/obj/Debug/net7.0/ArraysofOtherTypes.GeneratedMSBuildEditorConfig.editorconfig
+/home/prince/Development/CsharpProjects/ArraysofOtherTypes/obj/Debug/net7.0/ArraysofOtherTypes.AssemblyInfoInputs.cache
+/home/prince/Development/CsharpProjects/ArraysofOtherTypes/obj/Debug/net7.0/ArraysofOtherTypes.AssemblyInfo.cs
+/home/prince/Development/CsharpProjects/ArraysofOtherTypes/obj/Debug/net7.0/ArraysofOtherTypes.csproj.CoreCompileInputs.cache
+/home/prince/Development/CsharpProjects/ArraysofOtherTypes/obj/Debug/net7.0/ArraysofOtherTypes.dll
+/home/prince/Development/CsharpProjects/ArraysofOtherTypes/obj/Debug/net7.0/refint/ArraysofOtherTypes.dll
+/home/prince/Development/CsharpProjects/ArraysofOtherTypes/obj/Debug/net7.0/ArraysofOtherTypes.pdb
+/home/prince/Development/CsharpProjects/ArraysofOtherTypes/obj/Debug/net7.0/ArraysofOtherTypes.genruntimeconfig.cache
+/home/prince/Development/CsharpProjects/ArraysofOtherTypes/obj/Debug/net7.0/ref/ArraysofOtherTypes.dll
